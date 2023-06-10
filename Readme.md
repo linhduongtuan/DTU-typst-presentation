@@ -4,7 +4,7 @@
 
 - If you are interested in using Typst to compose your thesis, I can recommend my thesis template from my previous repository, called [BKHN-Thesis_template_typst](https://github.com/linhduongtuan/BKHN-Thesis_template_typst).
 
-- This is a presentation template for Typst that can be used for presentations related to Duy Tan University. It has a simple and clean design that uses the university's official colors. 
+- I imagine that Duy Tan University has guidelines and regulations for composing presentation slides. So I created this template based on my imagination, which may not be reality. However, this tutorial should help someone modify it for their own tasks, or at least it should serve as learning materials for Typst, and for the Rust language furthermore.
 
 # License
 
