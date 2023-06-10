@@ -1,0 +1,44 @@
+Rc files read:
+  /path/.config/latexmk/latexmkrc
+Latexmk: This is Latexmk, John Collins, 17 Mar. 2022. Version 4.77, version: 4.77.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+  /path/Desktop/Projekte/Typst/typst-seminar/.lt/test.tex
+  test.tex
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+  pdflatex
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/path/Desktop/Projekte/Typst/typst-seminar/.lt/test.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/path/Desktop/Projekte/Typst/typst-seminar/.lt/test.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-04-10> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./test.aux)
+/path/Desktop/Projekte/Typst/typst-seminar/.lt/test.tex:5: Missing $ inserted.
+<inserted text>
+                $
+l.5
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./test.aux) )
+(see the transcript file for additional information)</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on test.pdf (1 page, 13646 bytes).
+SyncTeX written on test.synctex.gz.
+Transcript written on test.log.
+Latexmk: If appropriate, the -f option can be used to get latexmk
+  to try to force complete processing.
+Latexmk: Getting log file 'test.log'
+Latexmk: Examining 'test.fls'
+Latexmk: Examining 'test.log'
+Latexmk: Log file says output to 'test.pdf'
+Latexmk: Errors, so I did not complete making targets
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'test.log' for details
