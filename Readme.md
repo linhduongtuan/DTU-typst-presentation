@@ -14,6 +14,6 @@ For more information, please see the LICENSE file in this repository.
 
 # Acknowledgements
 
-- Thanks to Andreas Kröpelin for creating the [Typst-slides template](https://github.com/andreasKroepelin/typst-slides/blob/main/LICENSE), which served as the basis for this template.
-- Thanks to @SesameMan for constructing the [typst-slides-nankai](https://github.com/sesameman/typst-slides-nankai), which I borrowed some code from.
-- Thanks to @Survari, who provided tutoring for Typst not only for creating presentation slides but also for other tasks like designing letter templates, thesis templates, and more. You can find his contributions at [typst-seminar](https://github.com/survari/typst-seminar). I referenced certain elements from this repository, such as translating why we should use Typst from German to Vietnamese.
+1. Thanks to Andreas Kröpelin for creating the [Typst-slides template](https://github.com/andreasKroepelin/typst-slides/blob/main/LICENSE), which served as the basis for this template.
+2. Thanks to @SesameMan for constructing the [typst-slides-nankai](https://github.com/sesameman/typst-slides-nankai), which I borrowed some code from.
+3. Thanks to @Survari, who provided tutoring for Typst not only for creating presentation slides but also for other tasks like designing letter templates, thesis templates, and more. You can find his contributions at [typst-seminar](https://github.com/survari/typst-seminar). I referenced certain elements from this repository, such as translating why we should use Typst from German to Vietnamese.
