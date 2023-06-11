@@ -12,7 +12,10 @@ The Duy Tan University Typst slide template is free to use and modify under the 
 
 For more information, please see the LICENSE file in this repository.
 
-# Acknowledgements
+### If you want to learn how to create a thesis template, please refer to [my other repository](https://github.com/linhduongtuan/BKHN-Thesis_template_typst).
+### If you want to learn how to create a scientific poster, please refer to [my other repository](https://github.com/linhduongtuan/VNUHCM-typst-poster).
+
+### Acknowledgements
 
 1. Thanks to Andreas Kröpelin for creating the [Typst-slides template](https://github.com/andreasKroepelin/typst-slides/blob/main/LICENSE), which served as the basis for this template.
 2. Thanks to @SesameMan for constructing the [typst-slides-nankai](https://github.com/sesameman/typst-slides-nankai), which I borrowed some code from.
